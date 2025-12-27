@@ -7,13 +7,13 @@ As a cybersecurity enthusiast and student, my goal isn't just to write code that
 
 ##  Repository Structure
 
-### 1. Modular Programming & Matrices (`Algorithms_and_Matrices`)
+### 1. Modular Programming & Matrices (`/Algorithms_and_Matrices`)
 A collection of algorithms demonstrating code reusability and complex array manipulations.
 * **Matrix Operations:** Multiplication (`prod_M`), Transposition (`transpose_M`), and Statistical Analysis (Row/Column Sums).
 * **Array Logic:** In-place Reversal and Element Deletion (Shifting logic).
 * **Sorting:** Implementation of sorting algorithms to understand algorithmic efficiency.
 
-### 2. Memory Management & Pointers (`Memory_Management`)
+### 2. Memory Management & Pointers (`/Memory_Management`)
 Implementations that rely on direct memory manipulation using `stdlib.h`.
 * **Dynamic Allocation:** Utilizing `malloc`, `calloc`, and `free` to manage heap memory at runtime.
 * **Pointer Arithmetic:** Traversing and manipulating data structures directly via memory addresses rather than array indexing.
