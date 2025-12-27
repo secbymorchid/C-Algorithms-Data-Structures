@@ -7,7 +7,7 @@ As a cybersecurity enthusiast and student, my goal isn't just to write code that
 
 ##  Repository Structure
 
-### 1. Modular Programming & Matrices (`Modular_Programming`)
+### 1. Modular Programming & Matrices (`Algorithms_and_Matrices`)
 A collection of algorithms demonstrating code reusability and complex array manipulations.
 * **Matrix Operations:** Multiplication (`prod_M`), Transposition (`transpose_M`), and Statistical Analysis (Row/Column Sums).
 * **Array Logic:** In-place Reversal and Element Deletion (Shifting logic).
